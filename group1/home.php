@@ -113,6 +113,7 @@ button:disabled{
         <a href="customerdisplay.php" target="_blank">Open Customer Display</a>
             <a href="refund.php">Refunds</a>
             <a href="cashmanagement.php">Cash Management</a>
+            <a href="../group2/pincode.php">Change Account</a>
             <a href="logout.php" class="logout-btn">Logout</a>
             
         </div>
